@@ -1,0 +1,6 @@
+first :Now
+second :Later
+third :Wait
+fourth :1
+-
+second or first or second or first or first or second or third fourth
